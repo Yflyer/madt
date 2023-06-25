@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: madt
+Version: 0.0.1
+Summary: Processing open-source amplicon database for ecology
+Home-page: https://pypi.org/project/madt/
+Author: Yufei Zeng
+Author-email: yfzeng0827@hotmail.com
+License: GNU General Public License v3.0
+Keywords: madt
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# MADT
+## Install by conda
+
+
+
+
+## Brief tutorial
+
+```
+madt main
+```
+
+## Work together with amplicon analysis platform
+*Requirement*
+**Notice**
+
+[QIIME2](https://qiime2.org/)

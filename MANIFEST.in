@@ -1,1 +1,3 @@
-recursive-include madt *
+recursive-include *.txt *.py *.fa *.json
+include README.md
+include LICENSE
